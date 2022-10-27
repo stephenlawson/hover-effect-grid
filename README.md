@@ -65,4 +65,4 @@ I will continue to work on my implementation of flex boxes and JS in my frontend
 ## Acknowledgments
 
 
-Hyper Tutorials won YouTube was a great help for creating this layout.
+Hyper Tutorials on YouTube was a great help for creating this layout.

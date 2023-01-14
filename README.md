@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Hover Effect Grid](https://taylor1038.github.io/hover-effect-grid/)
+- Solution URL: [Hover Effect Grid](https://stephenlawson.github.io/hover-effect-grid/)
 
 
 ## My process
